@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikitarudakow
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python
-- 📫 How to teach me python
+- 👀 I’m interested in python and golang
+- 🌱 I’m currently learning Redis
+- 💞️ I’m looking to collaborate on interesting people who want to develop in the IT world.
+- 📫 How to teach me Assembler
 
 <!---
 glebrukitin/glebrukitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
