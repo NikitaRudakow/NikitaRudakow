@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikitarudakow
 - 👀 I’m interested in python and golang
-- 🌱 I’m currently learning Redis
 - 💞️ I’m looking to collaborate on interesting people who want to develop in the IT world.
 - 📫 How to teach me Assembler
 
